@@ -1,4 +1,9 @@
 先看一段代码：
+ ```python
+    #!/usr/bin/env python3
+    print("Hello, World!");
+    ```
+
 `
 int cal(int n) {
    int ret = 0; 
