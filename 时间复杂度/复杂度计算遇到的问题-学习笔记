@@ -1,6 +1,5 @@
 先看一段代码：
 ```java
-
 int cal(int n) {
    int ret = 0; 
    int i = 1;
